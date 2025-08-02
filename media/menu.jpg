@@ -1,0 +1,4 @@
+await sock.sendMessage(jid, {
+  image: fs.readFileSync('./media/menu.jpg'),
+  caption: '📜 Main Menu\nHello! I am THANUVA-KING-MD bot.'
+}, { quoted: m })
