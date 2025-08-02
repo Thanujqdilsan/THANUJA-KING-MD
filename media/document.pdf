@@ -1,0 +1,5 @@
+await sock.sendMessage(jid, {
+  document: fs.readFileSync('./media/document.pdf'),
+  mimetype: 'application/pdf',
+  fileName: 'document.pdf'
+}, { quoted: m })
