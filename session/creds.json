@@ -1,0 +1,17 @@
+{
+  "noiseKey": { ... },
+  "identityKey": { ... },
+  "signedIdentityKey": { ... },
+  "signedPreKey": { ... },
+  "registrationId": 123456,
+  "account": {
+    "details": "Thanuja's Account",
+    "accountSignatureKey": "...",
+    ...
+  },
+  "me": {
+    "id": "94702509233:1@s.whatsapp.net",
+    "verifiedName": "Thanuva-King",
+    ...
+  }
+}
