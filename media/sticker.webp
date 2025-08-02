@@ -1,0 +1,3 @@
+await sock.sendMessage(jid, {
+  sticker: fs.readFileSync('./media/sticker.webp')
+}, { quoted: m })
