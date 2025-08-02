@@ -1,0 +1,5 @@
+await sock.sendMessage(jid, {
+  audio: fs.readFileSync('./media/welcome.mp3'),
+  mimetype: 'audio/mp4',
+  ptt: true
+}, { quoted: m })
