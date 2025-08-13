@@ -28,3 +28,9 @@ Speed Multi-device whatsapp Bot by Thanuja
 ---
 
 ## 🧩 Folder Structure
+
+
+
+
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Thanujqdilsan/THANUJA-KING-MD&envs=SESSION_ID,OWNER_NUMBER,PREFIX,BOT_NAME&SESSION_IDDesc=Paste+your+session+id+from+pair-web&OWNER_NUMBERDesc=Owner+WhatsApp+number+without+plus+sign&PREFIXDesc=Bot+command+prefix&BOT_NAMEDesc=Bot+display+name)
