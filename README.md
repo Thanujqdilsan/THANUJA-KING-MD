@@ -32,5 +32,16 @@ Speed Multi-device whatsapp Bot by Thanuja
 
 
 
+## 🚀 Deploy THANUJA-KING-MD
 
+**Heroku**
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Thanujqdilsan/THANUJA-KING-MD)
+
+**Koyeb**
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Thanujqdilsan/THANUJA-KING-MD&branch=main&name=thanuja-king-md)
+
+**Replit**
+[![Run on Replit](https://replit.com/badge/github/Thanujqdilsan/THANUJA-KING-MD)](https://replit.com/github/Thanujqdilsan/THANUJA-KING-MD)
+
+**Railway**
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Thanujqdilsan/THANUJA-KING-MD&envs=SESSION_ID,OWNER_NUMBER,PREFIX,BOT_NAME&SESSION_IDDesc=Paste+your+session+id+from+pair-web&OWNER_NUMBERDesc=Owner+WhatsApp+number+without+plus+sign&PREFIXDesc=Bot+command+prefix&BOT_NAMEDesc=Bot+display+name)
