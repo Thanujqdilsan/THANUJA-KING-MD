@@ -3,7 +3,7 @@ Speed Multi-device whatsapp Bot by Thanuja
 <h1 align="center">👑 THANUJA-KING-MD 👑</h1>
 
 <p align="center">
-  <img src="https://database.mizta-x.com/temp_links/1755157176546_1755157176546.image" width="200" alt="THANUJA-KING-MD"/>
+  <img src="https://database.mizta-x.com/temp_links/1755157176546_1755157176546.image" width="500" alt="THANUJA-KING-MD"/>
 </p>
 
 <p align="center">
