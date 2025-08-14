@@ -13,4 +13,4 @@ module.exports = {
       }
     } catch (e) { m.reply('Error: '+ e.message) }
   }
-    }
+}
