@@ -8,4 +8,4 @@ module.exports = (sock) => {
       await sock.sendMessage(msg.key.remoteJid, { text: 'Hello! I am THANUVA-KING-MD bot.' }, { quoted: msg })
     }
   })
-        }
+}
