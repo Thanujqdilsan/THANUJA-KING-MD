@@ -14,4 +14,4 @@ module.exports = {
       m.reply('Error: '+ e.message)
     }
   }
-        }
+}
