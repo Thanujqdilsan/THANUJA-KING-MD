@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="https://database.mizta-x.com/temp_links/1755157843267_1755157843267.image" width="200" alt="THANUJA-KING-MD"/>
+</p>
 const mainMenu = `
 *HELLO*
 *╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*
